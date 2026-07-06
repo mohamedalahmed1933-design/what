@@ -10,6 +10,7 @@ local LocalPlayer = Players.LocalPlayer
 
 local AllowedIDs = {
     [2908899698] = true,
+[1819894415] = true,
 }
 
 -- الكي يتغير يوميًا (مثال)
